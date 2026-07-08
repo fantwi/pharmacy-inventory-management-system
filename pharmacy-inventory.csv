@@ -1,0 +1,38 @@
+type,id,name,manufacturer,quantity,reorderLevel,unitPrice,expiryDate,dosage,controlledClass
+GENERAL,MED-001,Paracetamol,HealthPlus Labs,120,30,2.5,2028-01-08,500mg,
+GENERAL,MED-002,Cough Syrup,MediCare Ghana,18,20,12.0,2027-04-08,100ml,
+PRESCRIPTION,RX-101,Amoxicillin,PrimePharm,55,15,8.75,2027-09-08,250mg,Antibiotic
+PRESCRIPTION,RX-205,Diazepam,SafeMeds,8,10,21.4,2027-01-08,5mg,Controlled
+GENERAL,MED-099,Expired Test Batch,OldStock Ltd,4,10,1.75,2026-06-18,10 tablets,
+PRESCRIPTION,RX-102,Livolin Forte,Mega Lifesciences Pty. Ltd.,150,20,55.0,2027-12-13,100mg,Food Supplement
+GENERAL,MED-003,Clindamycin,Clinda Pty. Ltd.,83,25,12.0,2027-07-08,5mg,
+GENERAL,MED-004,Ibuprofen,HealthPlus Labs,95,25,3.75,2028-03-15,400mg,
+GENERAL,MED-005,Vitamin C,WellCare Pharma,140,30,4.2,2028-01-20,500mg,Food Supplement
+GENERAL,MED-006,Antacid Tablets,MediCare Ghana,60,20,5.5,2027-11-10,1 tablet,
+PRESCRIPTION,RX-103,Metformin,PrimePharm,70,20,9.0,2028-02-28,500mg,Antidiabetic
+PRESCRIPTION,RX-104,Amlodipine,SafeMeds,48,15,11.25,2027-10-12,5mg,Antihypertensive
+GENERAL,MED-007,ORS Sachets,LifeAid Ltd.,200,50,1.2,2028-06-30,1 sachet,
+GENERAL,MED-008,Multivitamin,HealthFirst Ltd.,110,25,7.8,2028-04-18,1 tablet,Food Supplement
+PRESCRIPTION,RX-105,Losartan,PrimePharm,52,15,13.6,2028-01-07,50mg,Antihypertensive
+GENERAL,MED-009,Cetirizine,AllergyCare Ltd.,85,20,6.25,2027-12-22,10mg,
+PRESCRIPTION,RX-106,Atorvastatin,SafeMeds,40,10,15.9,2028-05-05,20mg,Statin
+GENERAL,MED-010,Diclofenac Gel,HealthPlus Labs,35,10,8.5,2027-09-30,30g,
+PRESCRIPTION,RX-107,Azithromycin,PrimePharm,28,10,18.0,2027-08-14,250mg,Antibiotic
+GENERAL,MED-011,Saline Nasal Spray,MediCare Ghana,90,20,4.95,2028-02-11,15ml,
+PRESCRIPTION,RX-108,Prednisolone,SafeMeds,22,10,12.75,2027-07-19,5mg,Corticosteroid
+GENERAL,MED-012,Zinc Tablets,WellCare Pharma,130,30,5.1,2028-03-02,20mg,Food Supplement
+PRESCRIPTION,RX-109,Cefuroxime,PrimePharm,44,15,16.4,2027-11-28,500mg,Antibiotic
+GENERAL,MED-013,Hydrogen Peroxide,LifeAid Ltd.,75,20,3.3,2028-04-25,100ml,
+GENERAL,MED-014,Hand Sanitizer,HealthFirst Ltd.,180,40,2.9,2028-01-30,500ml,
+PRESCRIPTION,RX-110,Tramadol,SafeMeds,16,8,22.5,2027-06-16,50mg,Controlled
+GENERAL,MED-015,Rehydration Salt,LifeAid Ltd.,160,40,1.05,2028-07-08,1 sachet,
+PRESCRIPTION,RX-111,Omeprazole,PrimePharm,58,15,10.8,2028-02-14,20mg,Acid Reducer
+GENERAL,MED-016,Calamine Lotion,MediCare Ghana,45,10,6.7,2027-10-06,100ml,
+PRESCRIPTION,RX-112,Ciprofloxacin,SafeMeds,33,10,14.25,2027-09-09,500mg,Antibiotic
+GENERAL,MED-017,Thermometer,HealthPlus Labs,25,5,9.99,2030-01-01,1 unit,
+GENERAL,MED-018,Gauze Pads,WellCare Pharma,300,60,0.85,2030-12-31,10cm x 10cm,
+PRESCRIPTION,RX-113,Hydrochlorothiazide,PrimePharm,62,15,7.4,2028-06-21,25mg,Diuretic
+GENERAL,MED-019,Naproxen,MediCare Ghana,77,20,4.6,2028-05-12,250mg,
+PRESCRIPTION,RX-114,Insulin Glargine,SafeMeds,19,5,35.0,2027-12-01,100IU/ml,Antidiabetic
+GENERAL,MED-020,Ear Drops,LifeAid Ltd.,54,15,5.95,2027-08-26,10ml,
+PRESCRIPTION,RX-115,Clindamycin,PrimePharm,31,10,12.0,2027-07-08,300mg,Antibiotic
