@@ -59,7 +59,7 @@ public class MainFrame extends JFrame {
     private String selectedOriginalId;
 
     public MainFrame() {
-        setTitle("Pharmacy Inventory Management System");
+        setTitle("UCC MScIT Pharmacy Inventory Management System");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setMinimumSize(new Dimension(1150, 720));
         setLocationRelativeTo(null);
@@ -86,7 +86,7 @@ public class MainFrame extends JFrame {
         JPanel header = new JPanel(new BorderLayout(12, 8));
         header.setOpaque(false);
 
-        JLabel title = new JLabel("Pharmacy Inventory Management System");
+        JLabel title = new JLabel("UCC MScIT Pharmacy Inventory Management System");
         title.setFont(new Font("Segoe UI", Font.BOLD, 24));
         title.setForeground(new Color(25, 59, 80));
         header.add(title, BorderLayout.WEST);
@@ -133,7 +133,7 @@ public class MainFrame extends JFrame {
                 BorderFactory.createLineBorder(new Color(214, 224, 231)),
                 new EmptyBorder(14, 14, 14, 14)));
 
-        JLabel formTitle = new JLabel("Medicine Record");
+        JLabel formTitle = new JLabel("Add/Edit Medicine Record");
         formTitle.setFont(new Font("Segoe UI", Font.BOLD, 18));
         formWrapper.add(formTitle, BorderLayout.NORTH);
 
