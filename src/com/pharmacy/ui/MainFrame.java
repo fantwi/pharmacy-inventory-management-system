@@ -39,9 +39,9 @@ import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 
 public class MainFrame extends JFrame {
-    // private final InventoryManager inventoryManager = new InventoryManager();
-    // private final InventoryTableModel tableModel = new InventoryTableModel();
-    // private final JTable inventoryTable = new JTable(tableModel);
+    private final InventoryManager inventoryManager = new InventoryManager();
+    private final InventoryTableModel tableModel = new InventoryTableModel();
+    private final JTable inventoryTable = new JTable(tableModel);
 
     private final JTextField idField = new JTextField(12);
     private final JTextField nameField = new JTextField(18);
