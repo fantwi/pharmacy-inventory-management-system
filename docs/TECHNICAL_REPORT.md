@@ -4,14 +4,14 @@
 
 **Project Title:** Pharmacy Inventory Management System  
 **Technology Used:** Java Swing  
-**Student Name:** [Your Name]  
-**Programme:** [Your Programme]  
-**Course:** [Course Name]  
-**Date:** [Submission Date]
+**Student Name:** Frank Akrasi Antwi  
+**Programme:** MSc. Information Technology  
+**Course:** Object Oriented Programming (OOP)  
+**Date:** 10th July, 2026.
 
 ## 2. Introduction
 
-This project is a GUI-based Pharmacy Inventory Management System developed in Java Swing. It helps a pharmacy maintain medicine records, monitor stock levels, identify expired medicines, and perform stock operations such as sales and restocking.
+This project is simple a GUI-based Pharmacy Inventory Management System developed in Java Swing. It helps a pharmacy maintain medicine records, monitor stock levels, identify expired medicines, and perform stock operations such as sales and restocking.
 
 ## 3. Problem Statement
 
@@ -22,8 +22,7 @@ Manual pharmacy inventory tracking can lead to stock shortages, expired medicine
 - Store medicine inventory records in a structured format.
 - Provide a user-friendly graphical interface.
 - Allow staff to add, update, delete, search, sell, and restock medicines.
-- Highlight low-stock and expired items.
-- Demonstrate core object-oriented programming concepts.
+- Highlight low-stock items in yellow and expired items in red.
 - Support CSV import and export for simple data portability.
 
 ## 5. Scope of the System
