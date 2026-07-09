@@ -98,6 +98,6 @@ Screenshots include:
 - Summary statistics
 
 ## Github Link
-```url
+```link
 https://github.com/fantwi/pharmacy-inventory-management-system
 ```
