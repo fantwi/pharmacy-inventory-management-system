@@ -78,6 +78,7 @@ src/com/pharmacy/
   ui/
 docs/
 screenshots/
+pharmacy-inventory.csv
 README.md
 run.bat
 run.sh
