@@ -1,6 +1,6 @@
 # Pharmacy Inventory Management System
 
-A GUI-based Java Swing application for managing pharmacy medicine stock records. The system supports adding, updating, deleting, searching, importing, exporting, selling, and restocking medicines.
+A simple GUI-based Java Swing application for managing pharmacy medicine stock records. The system supports adding, updating, deleting, searching, importing, exporting, selling, and restocking medicines.
 
 ## Project Topic
 
@@ -78,43 +78,26 @@ src/com/pharmacy/
   ui/
 docs/
 screenshots/
+README.md
+run.bat
+run.sh
 ```
 
 ## Screenshots
 
-Place application screenshots in the `screenshots` folder before final GitHub submission.
+Screenshots of the application can be fount in the `screenshots` folder.
 
-Suggested screenshots:
+Screenshots include:
 
 - Main dashboard with sample inventory
 - Add medicine form
 - Low-stock filter
 - Expired medicine filter
 - CSV export or import workflow
+- Search functionality
+- Summary statistics
 
-## GitHub Deployment
-
-1. Create a new GitHub repository.
-2. Initialize git locally if needed:
-
-```powershell
-git init
-git add .
-git commit -m "Initial pharmacy inventory system"
+## Github Link
+```text
+https://github.com/fantwi/pharmacy-inventory-management-system
 ```
-
-3. Connect and push:
-
-```powershell
-git remote add origin https://github.com/YOUR-USERNAME/pharmacy-inventory-management-system.git
-git branch -M main
-git push -u origin main
-```
-
-## Development Log
-
-See `docs/GIT_DEVELOPMENT_LOG.md` for file-level and method-level commit-style messages that describe how the system was created.
-
-## Academic Integrity Note
-
-Update the technical report, screenshots, reflections, and GitHub repository link with your own details before submission. The final write-up should accurately describe your understanding and implementation experience.
