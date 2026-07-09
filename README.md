@@ -31,7 +31,7 @@ Pharmacy Inventory Management System
 - No external libraries are required
 
 ## How to Compile and Run
-# On Windows
+### On Windows
 
 From the project root:
 
@@ -46,7 +46,7 @@ Or run the included Windows script:
 .\run.bat
 ```
 
-# On Ubuntu
+### On Ubuntu
 From the project root:
 
 ```bash
