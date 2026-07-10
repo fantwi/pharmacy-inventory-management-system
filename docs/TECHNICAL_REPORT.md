@@ -5,6 +5,7 @@
 **Project Title:** Pharmacy Inventory Management System  
 **Technology Used:** Java Swing  
 **Student Name:** Frank Akrasi Antwi  
+**Index Number:** MS/ITE/25/0051
 **Programme:** MSc. Information Technology  
 **Course:** Object Oriented Programming (OOP)  
 **Date:** 10th July, 2026.
