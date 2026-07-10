@@ -22,7 +22,7 @@ Manual pharmacy inventory tracking can lead to stock shortages, expired medicine
 - Store medicine inventory records in a structured format.
 - Provide a user-friendly graphical interface.
 - Allow staff to add, update, delete, search, sell, and restock medicines.
-- Highlight low-stock items in yellow and expired items in red.
+- Highlight low-stock items in pale yellow and expired items in pale red.
 - Support CSV import and export for simple data portability.
 
 ## 5. Scope of the System
@@ -92,17 +92,23 @@ The service and table model store and display objects using the `InventoryItem` 
 
 ## 11. Screenshots and Outputs
 
-Add your screenshots here after running the application:
+Screenshots of the application can be fount in the `screenshots` folder.
 
-- Main inventory screen
-- Add medicine example
+Screenshots include:
+
+- Main dashboard with sample inventory
+- Add medicine form
 - Low-stock filter
 - Expired medicine filter
-- CSV export/import example
+- CSV export or import workflow
+- Search functionality
+- Summary statistics
 
 ## 12. GitHub Repository Link
 
-[Add your GitHub repository link here]
+```text
+https://github.com/fantwi/pharmacy-inventory-management-system
+```
 
 ## 13. Challenges Encountered
 
@@ -110,7 +116,7 @@ One challenge was keeping validation rules separate from the GUI so the interfac
 
 ## 14. Conclusion
 
-The Pharmacy Inventory Management System meets the requirements for a GUI-based Java application. It demonstrates practical use of object-oriented programming, event-driven programming, collections, validation, exception handling, and modular design.
+The Pharmacy Inventory Management System demonstrates practical use of object-oriented programming, event-driven programming, collections, validation, exception handling, and modular design.
 
 ## 15. Recommendations
 
